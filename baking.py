@@ -1,10 +1,6 @@
  
 # Let's get cooking!
 
-from platform import freedesktop_os_release
-from webbrowser import BackgroundBrowser
-
-
 ingredient_1 = 'milk'
 ingredient_2 = 'eggs'
 ingredient_3 = 'flour'
